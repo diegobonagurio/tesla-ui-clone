@@ -20,3 +20,7 @@ Run the command yarn to install the dependencies and run for execute the applica
 ```bash
 yarn start
 ``` 
+
+# Look the result
+
+![](uiclone-video.gif)
