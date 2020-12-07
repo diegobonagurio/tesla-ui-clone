@@ -23,4 +23,4 @@ yarn start
 
 # Look the result
 
-![](uiclone-video.gif)
+![](assets/uiclone-video.gif)
