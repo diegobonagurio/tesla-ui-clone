@@ -21,6 +21,6 @@ Run the command yarn to install the dependencies and run for execute the applica
 yarn start
 ``` 
 
-# Look the result
+# Look The Result
 
 ![](assets/uiclone-video.gif)
